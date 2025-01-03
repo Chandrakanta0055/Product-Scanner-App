@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.POSScanner" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">#47B8ED</item>
+<!--        <item name="android:windowFullscreen">true</item>-->
+    </style>
+
+
+    <style name="Theme.POSScanner" parent="Base.Theme.POSScanner" />
+</resources>

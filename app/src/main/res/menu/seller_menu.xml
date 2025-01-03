@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/scanner"
+        android:id="@+id/scan"
+        android:title="Scan" />
+    <item
+        android:layout_width="wrap_content"
+        android:icon="@drawable/box1"
+        android:layout_height="wrap_content"
+        android:id="@+id/Box"
+        android:title="Box" />
+    <item
+        android:layout_width="wrap_content"
+
+        android:icon="@drawable/persons"
+        android:id="@+id/Profile"
+        android:layout_height="wrap_content"
+        android:title="Profile" />
+</menu>
